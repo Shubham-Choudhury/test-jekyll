@@ -1,0 +1,9 @@
+CREATE NEW PROJECT: jekyll new mysite
+
+CREATE PROJECT INSIDE A FOLDER: jekyll new . --force
+
+INSTALL DEPENDANCY: bundle install
+
+RUN SERVER: bundle exec jekyll serve
+
+SEE DRAFTS: jekyll serve --draft
