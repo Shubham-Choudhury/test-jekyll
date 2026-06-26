@@ -7,3 +7,5 @@ INSTALL DEPENDANCY: bundle install
 RUN SERVER: bundle exec jekyll serve
 
 SEE DRAFTS: jekyll serve --draft
+
+SHOW MINIMA THEME: bundle info minima
