@@ -1,11 +1,5 @@
 ---
 layout: page
-title: Contact Me
-permalink: /contact/
+title: Contact
+permalink: /about/
 ---
-
-## Contact me
-<center>Hello my name is Xea.</center>
-
-
-Contact me....
