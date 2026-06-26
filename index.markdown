@@ -4,7 +4,6 @@
 
 layout: base
 ---
-# Hello World
  Hello, my name is Shubham.
 
  ```python
